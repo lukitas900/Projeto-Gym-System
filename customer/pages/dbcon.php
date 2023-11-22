@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("sql311.infinityfree.com","if0_35477637","ge5mn6bf5hzDu","gymnsb");
+$con = mysqli_connect("sql311.infinityfree.com","if0_35477637","ge5mn6bf5hzDu","if0_35477637_gymnsb");
 
 // Check connection
 if (mysqli_connect_errno())

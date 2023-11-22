@@ -3,7 +3,7 @@
 $servername="sql311.infinityfree.com";
 $uname="if0_35477637";
 $pass="ge5mn6bf5hzDu";
-$db="gymnsb";
+$db="if0_35477637_gymnsb";
 
 $conn=mysqli_connect($servername,$uname,$pass,$db);
 
